@@ -1,0 +1,21 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.1",
+    "@types/nodemailer": "^6.4.7"
+  },
+  "dependencies": {
+    "@types/formidable": "^2.0.5",
+    "formidable": "^2.1.1",
+    "nodemailer": "^6.9.1",
+    "ts-node": "^10.9.1"
+  }
+}
